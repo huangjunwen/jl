@@ -44,3 +44,8 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+##############################################################
+
+# My extensions
+jupyterlab-open-url-parameter
